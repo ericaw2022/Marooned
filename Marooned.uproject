@@ -18,6 +18,10 @@
 		{
 			"Name": "Water",
 			"Enabled": true
+		},
+		{
+			"Name": "Soundscape",
+			"Enabled": true
 		}
 	]
 }
